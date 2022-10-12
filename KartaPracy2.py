@@ -27,3 +27,9 @@
 #   print("tak")
 # else:
 #   print("nie")
+
+
+
+
+# Zad 1
+
