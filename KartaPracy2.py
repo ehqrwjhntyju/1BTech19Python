@@ -21,12 +21,12 @@
 #   print("nie, nie spełnia MTF")
 
 # Zad 7
-# p,k,s = int(input()), int(input()), int(input())
-# if p + 3*s >= k:
+p,k,s = int(input()), int(input()), int(input())
+if p + 3*s >= k:
   
-#   print("tak")
-# else:
-#   print("nie")
+  print("tak")
+else:
+  print("nie")
 
 
 
